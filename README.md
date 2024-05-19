@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SurajMahamuni15
+- 👋 Hi, I’m Suraj Mahamuni
 - 👀 I’m interested in Android development and mobile app technologies.
 - 🌱 I’m currently learning advanced Android frameworks and Kotlin programming.
 - 💞️ I’m looking to collaborate on innovative Android projects and open-source contributions.
