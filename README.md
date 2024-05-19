@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development and mobile app technologies.
 - 🌱 I’m currently learning advanced Android frameworks and Kotlin programming.
 - 💞️ I’m looking to collaborate on innovative Android projects and open-source contributions.
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: surajmaha00@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech gadgets and enjoy coding while sipping coffee!
 <!---
